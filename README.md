@@ -1,5 +1,10 @@
 # browser_storage
 
+- document.cookie
+- window.localStorage
+
+の中を確認する
+
 ## Project setup
 ```
 npm install
